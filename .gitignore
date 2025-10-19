@@ -1,0 +1,25 @@
+# Ejecutables
+ejercicio1
+ejercicio3
+ejercicio4
+ejercicio5
+*.exe
+*.out
+
+# Archivos de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Imágenes generadas
+*_filtrada.ppm
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+.DS_Store
